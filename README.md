@@ -47,11 +47,6 @@ I'm a Python Developer 💻!
 </br>
 
 
-
-
-## 🔭 I'm currently working on
-- Python, Machine Learning
-
 ## 💼 Technical Skills
 
 
