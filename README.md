@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **hamitguner/hamitguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=salcimuhammeth&label=Profile%20views&color=0e75b6&style=flat" alt="salcimuhammeth" /> </p>
+
+<p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner%20(1).gif" alt="my banner"></a>
+</p> -->
+
+<h3 align="center">
+Hi there, I'm Hamit 👋
+</h3>
+
+<h2 align="center">
+I'm a Python Developer 💻!
+</h2> 
+
+### 🤝 Connect with me:
+
+
+
+<a href="https://www.linkedin.com/in/hamitguner/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Hamit Güner | LinkedIn" width="50px"/></a>
+
+
+</br>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+
+## 🔭 I'm currently working on
+- Python, Machine Learning
+
+## 💼 Technical Skills
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+
+
+</br>
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
+
+## 📈 GitHub Stats 
+
+[![Muhammet's github stats](https://github-readme-stats.vercel.app/api?username=hamitguner)](https://github.com/muhammetsalci)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamitguner&layout=compact) 
