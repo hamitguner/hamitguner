@@ -33,12 +33,19 @@ I'm a Python Developer 💻!
 
 
 
-<a href="https://www.linkedin.com/in/hamitguner/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Hamit Güner | LinkedIn" width="50px"/></a>
+* 🔭 I’m currently working on Python, Machine Learning
+* 🌱 I’m currently learning Django
+* 💬 Ask me what you want
+
+### 📫 How to reach me:
+<br>
+
+<a href="https://www.linkedin.com/in/hamitguner/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hamit Güner | LinkedIn" width="30px"/></a>
+<br>
 
 
 </br>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 
 
