@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=salcimuhammeth&label=Profile%20views&color=0e75b6&style=flat" alt="salcimuhammeth" /> </p>
-
-<p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner%20(1).gif" alt="my banner"></a>
-</p> -->
 
 <h3 align="center">
 Hi there, I'm Hamit 👋
@@ -72,5 +68,5 @@ I'm a Python Developer 💻!
 
 ## 📈 GitHub Stats 
 
-[![Muhammet's github stats](https://github-readme-stats.vercel.app/api?username=hamitguner)](https://github.com/muhammetsalci)
+[![Hamit's github stats](https://github-readme-stats.vercel.app/api?username=hamitguner)](https://github.com/hamitguner)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamitguner&layout=compact) 
