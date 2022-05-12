@@ -34,13 +34,13 @@ I'm a Python Developer 💻!
 * 💬 Ask me what you want
 
 ### 📫 How to reach me:
-<br>
+
 
 <a href="https://www.linkedin.com/in/hamitguner/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hamit Güner | LinkedIn" width="30px"/></a>
 <br>
 
 
-</br>
+
 
 
 ## 💼 Technical Skills
