@@ -13,7 +13,7 @@ Data / AI Engineer • LLMs • RAG • Agentic Systems
 I’m a **Data / AI Engineer** with hands-on experience building **production-grade LLM systems**,  
 including **RAG pipelines**, **LangGraph-based multi-agent workflows**, and **LLM-powered backends**.
 
-Currently working at **Helix Teknoloji**, where I design and deploy **end-to-end AI solutions** —
+Currently working at **Helix Technology**, where I design and deploy **end-to-end AI solutions** —
 from document ingestion and vector search to autonomous agent orchestration.
 
 ---
