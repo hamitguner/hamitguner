@@ -55,10 +55,3 @@ from document ingestion and vector search to autonomous agent orchestration.
 </a>
 
 <br /><br />
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamitguner&layout=compact)
-
